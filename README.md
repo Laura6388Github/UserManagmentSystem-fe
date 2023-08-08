@@ -1,16 +1,6 @@
 ## About
 This is Management system of users, incomes, expense of company members
 
-## Github
-
-Github repository: 
-
-### `https://github.com/codechef703/ums-fe`
-
-To clone repository, you can run:
-
-### `git clone https://github.com/codechef703/ums-fe.git`
-
 ## Requirements
 
 yarn v1.22.19
