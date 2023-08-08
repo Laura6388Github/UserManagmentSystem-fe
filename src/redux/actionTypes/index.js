@@ -1,0 +1,14 @@
+export const LOGIN_REQUEST = "LOGIN_REQUEST";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FALIED = "LOGIN_FALIED";
+export const LOGOUT = "LOGOUT";
+
+export const API_REQUEST = "API_REQUEST";
+export const SUCCESS_RESPONSE = "SUCCESS_RESPONSE";
+export const ERROR_RESPONSE = "ERROR_RESPONSE";
+export const SET_COMMON_STATUS = "SET_COMMON_STATUS";
+export const SET_CONSTANTS = "SET_CONSTANTS";
+export const SET_USERIDS = "SET_USERIDS";
+
+export const UPDATE_USER = "UPDATE_USER";
+export const UPDATE_PROFILE = "UPDATE_PROFILE";
